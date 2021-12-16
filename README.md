@@ -1,4 +1,4 @@
-Olá, meu nome é Igor Alves e atualmente sou estudante de sistemas para internet.<br>
+Olá, meu nome é Igor Alves e sou estudante de sistemas para internet.<br>
 Meu interesse atual é em aprender e aprimorar técnicas de desenvolvimento front-end.<br>
 Nesse momento estou aprendendo Javascript enquanto aprimoro HTML&CSS<br>
 
