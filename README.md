@@ -1,5 +1,3 @@
-Olá, meu nome é Igor e sou estudante de sistemas para internet.<br>
-
 
 
 Conecte-se comigo pelo <a href="https://www.linkedin.com/in/igoralveslink/" target="_blank">LinkedIn</a>
