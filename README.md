@@ -1,5 +1,4 @@
-## Sobre mim:
-Olá!<br>Meu nome é Igor Alves e sou Desenvolvedor Web FullStack com formação em Sistemas para Internet. 
+
 
 ## Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igoralveslink) 
